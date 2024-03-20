@@ -1,0 +1,30 @@
+.primary-color {
+  color:#9967D9;
+}
+
+.secondary-color {
+  color:#B394DC;
+}
+
+.btn-bd-primary {
+  --bs-btn-font-weight: 600;
+  --bs-btn-color: var(--bs-white);
+  --bs-btn-bg:#B394DC;
+}
+
+.accent-color {
+  color:#EFECF4;
+}
+
+.background-color {
+  color:#F9F7FE;
+}
+
+p {
+  color:#0E0521
+}
+
+.bg-craterlake {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+}
