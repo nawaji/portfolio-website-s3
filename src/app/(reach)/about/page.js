@@ -12,11 +12,10 @@ export default function about() {
           <div className="row">
             <div className="col col-lg-4">
               <Image className="m-2 rounded-5"
-                src={selfie}
+                src="https://portfolio-website-strapi-s3.s3.us-west-2.amazonaws.com/1539571601789_e0410b11ae.jpg"
                 alt="Picture of Jonathan To"
                 width={300}
                 height={300}
-                placeholder="blur"
               />
             </div>
               <div className="col col-lg-4">
@@ -35,9 +34,9 @@ export default function about() {
             </div>
             <div className="row text-start">
               <div className="col">
-                <a href="#" className="btn btn-bd-primary me-4">LinkedIn</a>
-                <a href="#" className="btn btn-bd-primary me-4">GitHub</a>
-                <a href="#" className="btn btn-bd-primary me-4">Email</a>
+                <a href="https://www.linkedin.com/in/jonathan-to-a73136172/" className="btn btn-bd-primary me-4">LinkedIn</a>
+                <a href="https://github.com/nawaji" className="btn btn-bd-primary me-4">GitHub</a>
+                <a href="mailto:jonathant15191@gmail.com" className="btn btn-bd-primary me-4">Email</a>
               </div>
             </div>
           </div>

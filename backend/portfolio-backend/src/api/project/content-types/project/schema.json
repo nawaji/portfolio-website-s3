@@ -31,6 +31,9 @@
     },
     "project_description": {
       "type": "text"
+    },
+    "github_link": {
+      "type": "string"
     }
   }
 }

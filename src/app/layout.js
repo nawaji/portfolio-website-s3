@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
       <head>
       </head>
       <body>
-        <img src="http://localhost:1337/uploads/DSC_8728_8eea714d6a.JPG" class="img-fluid z-n1 opacity-25 position-absolute" alt="image of crater lake" />
+        <img src="https://portfolio-website-strapi-s3.s3.us-west-2.amazonaws.com/DSC_8728_bc64774aae.JPG" class="img-fluid z-n1 opacity-25 position-absolute" alt="image of crater lake" />
         <nav className="navbar navbar-expand-lg navbar-light">
           <div className="container-fluid">
             <a className="navbar-brand" href="#">TOJO</a>
